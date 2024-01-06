@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+header{
+    background-image: url('/images/banner/banner1.png');
+    padding: 216px 230px;
+    text-align: right;
+}
+.header-title{
+    color:#151414);
+    font-size: 65px;
+    font-weight: 700;
+}
+
+.header-para{
+    color: #444343;
+    font-size: 16px;
+    font-weight: 400;
+    margin-top: 15px;
+}
+
+.header-btn{
+    border-radius: 5px;
+    background: #F15B22;
+    border: 0px;
+    padding: 20px 25px;
+    color: white;
+    margin-top: 20px;
+    font-size: 20px;
+    font-weight: 600;
+}

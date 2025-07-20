@@ -62,7 +62,7 @@ To run this project on your machine:
 
 ```bash
 git clone https://github.com/devo-ab/do-something.git
-cd believe-in-yourself
+cd do-something
  ```
 
 

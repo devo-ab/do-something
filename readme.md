@@ -65,7 +65,6 @@ git clone https://github.com/devo-ab/do-something.git
 cd do-something
  ```
 
-
 🌐 Deployment
 This project is deployed using GitHub Pages.
 
